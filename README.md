@@ -16,12 +16,12 @@ Given that the multiple r-square value is 0.7149 and the p-value is below the si
 <img width="521" alt="Summary Statistics" src="https://user-images.githubusercontent.com/89530570/149665758-4db64cc0-9b9e-44f1-9577-7af468543732.png">
 
 
-### Summary Statistics on Suspension Coils
+## Summary Statistics on Suspension Coils
 
 <img width="470" alt="Summary statistics1" src="https://user-images.githubusercontent.com/89530570/149665825-97eaa2eb-247c-4e96-9800-7105c6a298e2.png">
 
 
-### Summary statistica based on manufatoring data
+## Summary statistica based on manufatoring data
 
 <img width="505" alt="Summary statistics based on manufacturing lot" src="https://user-images.githubusercontent.com/89530570/149665851-5aeb9552-9529-4604-97fa-6d646305fb4d.png">
 
