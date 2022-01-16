@@ -70,6 +70,9 @@ H0: There is a correlation between Performance of the car to features and price.
 
 Ha: There is no correlation between Performance of the the car to features and price.
 
+
+### Statistical Tests
+
 We can also use t-tests and ANOVA test on the data.
 
 ### Required data
