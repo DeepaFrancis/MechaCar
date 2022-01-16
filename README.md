@@ -59,11 +59,18 @@ Given that the multiple r-square value is 0.7149 and the p-value is below the si
 <img width="533" alt="Lot3" src="https://user-images.githubusercontent.com/89530570/149666044-32c1fe27-213a-4b97-89bd-737a63ea8f33.png">
 
 ## Study
+
+
 ###	Hypothesis
+
+If we have the data about price, features and performance details, we can do t-tests. We can also use the numerical data to perform quantitative analysis.
+
 
 H0: There is a correlation between Performance of the car to features and price.
 
 Ha: There is no correlation between Performance of the the car to features and price.
+
+We can also use t-tests and ANOVA test on the data.
 
 ### Required data
 MechaCar & Competitor –  price, features and performance details.
